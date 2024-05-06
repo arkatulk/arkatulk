@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Myself**
+ 🔭 I’m currently working on **Mern Stack**
  
  🌱 I’m currently learning **Node.js, React, Firebase, MongoDB**
 
